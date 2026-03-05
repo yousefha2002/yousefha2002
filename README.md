@@ -9,12 +9,6 @@
 
 - 📫 How to reach me **yousefha2029@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yousefabohani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousefabohani_" height="30" width="40" /></a>
-<a href="https://instagram.com/zerotodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zerotodev_" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefha2002&show_icons=true&locale=en&layout=compact" alt="yousefha2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefha2002&show_icons=true&locale=en" alt="yousefha2002" /></p>
